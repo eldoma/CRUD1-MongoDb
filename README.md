@@ -2,7 +2,8 @@
 ![Deployment of Repo](https://github.com/eldoma/CRUD1-MongoDb/blob/main/webapp/Front.jpg)
 ## a simple CRUD Node.js and MongoDB employee management web-app
 # Built on HTML, JS & Ajax
-Runnable on VS Code
+Runnable on VS Code.
+Run this code in a Node.js environment
 - Make sure you have 1 GB at least drive space
 - MongoDB must be started & kept running on separate terminal:
 
